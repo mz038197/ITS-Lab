@@ -1,1 +1,1 @@
-numpy==1.25.0
+nbgrader==0.9.5
