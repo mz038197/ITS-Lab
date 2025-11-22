@@ -17,3 +17,8 @@
 
 * CH06 字典 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/ITS-Lab/blob/main/lab/student/Lesson3/CH06_字典.ipynb) ]
 * CH07 函式與模組 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/ITS-Lab/blob/main/lab/student/Lesson3/CH07_函式與模組.ipynb) ]
+
+
+### **Lesson4**
+
+* CH09 檔案與例外處理 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/ITS-Lab/blob/main/lab/teacher/Lesson4/CH09_檔案與例外處理.ipynb) ]
