@@ -21,4 +21,4 @@
 
 ### **Lesson4**
 
-* CH09 檔案與例外處理 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/ITS-Lab/blob/main/lab/teacher/Lesson4/CH09_檔案與例外處理.ipynb) ]
+* CH09 檔案與例外處理 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/ITS-Lab/blob/main/lab/student/Lesson4/CH09_檔案與例外處理.ipynb) ]
